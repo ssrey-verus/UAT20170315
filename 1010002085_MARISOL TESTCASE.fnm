@@ -1,0 +1,58 @@
+EH                                20170314   ENV1     
+TH T100099-002TRAN1    
+TPI1.00 01                              R
+0001  3.20 W
+00ANN
+01A01                                                                                                              1010002085     825000.00      5.650  36001                                                                                51LWSJ                                                                          
+02A3100 Dona Sarita Place                            Studio City                        CA91604    1  F1SEE TITLE REPORT                                                                1964
+02B  05                                                                                1                                                            1        
+02CJANE TESTCASE                                               
+02D2016810000.00                                                   01                                                                                 0.00           
+02E13675000.00                                                                                      
+03ABW000000001MARISOL                                                               TESTCASE                               8181234567   16M1 Y         19800321jtest555@gmail.com                                                              
+03B0000000012  
+03C000000001ZG3184 Dona Sarita Place                            Studio City                        CA91604    O1 1                                                   
+03C000000001F41333 N Curson Ave                                 Los Angeles                        CA90046    R0                                                     
+04A000000001Butter Nails & Waxing, Inc.        7777 W. Sunset Blvd.               Los Angeles                        CA90046    Y6 9   Owner / manager/nails    3238507770
+04B000000001Wax Studio                         7777 Sunset Blvd.                  Los Angeles                        CA90046    YY20080901                       Owner / MANAGER- WAXING  8184861006
+05H000000001101135.00         
+05H0000000011141278.00        
+05H0000000012264762.20        
+05H000000001201137.08         
+05H0000000012141278.27        
+05I0000000012041750.00       
+06C00000000103 Chase                                                                                                               727202108                     87738.24                                                                                                 
+06C00000000103 Chase                              Butter Nails & Waxing Inc. business                                              68586728                      21641.09                                                                                                 
+06C00000000103 Bank of America                                                                                                      000246871273                 20364.04                                                                                                 
+06C000000001SG Bank of America                                                                                                      000247972214                 21905.97                                                                                                 
+06G0000000017218 Hillside Ave., #205           Los Angeles                        CA90046    R04810000.00      0.00           0.00           0.00           565.63         -566.00        NN1                
+06G0000000014600 Burnet Avenue                 Sherman Oaks                       CA91403    R  875000.00      0.00           0.00           0.00           1015.00        -1015.00       NN2                
+06G0000000013100 Dona Sarita Place             Studio City                        CA91604    H  1700000.00     850000.00                     0.00           1413.00                       YY3                
+06L000000001I USAA FEDERAL SAVINGS B             PO BOX 47504                       SAN ANTONIO                        TX78265    ACCT000006                    533.00         61 28626.00       N  NNNN
+06L000000001R CHASE                              PO BOX 15298                       WILMINGTON                         DE19850    ACCT000002                    10.00             228.00         N  NNNN
+06L000000001R NBGL-MCRAES                        P O BOX 10327                      JACKSON                            MS39289    ACCT000013                    0.00              0.00           N  NNNN
+06L000000001R CITI                               PO BOX 6497                        SIOUX FALLS                        SD57117    ACCT000009                    0.00              0.00           N  NNNN
+06L000000001R DISCOVER FIN SVS LLC               PO BOX 15316                       WILMINGTON                         DE19850    ACCT000003                    0.00              0.00           N  NNNN
+06L000000001I TOYOTA MOTOR CREDIT                8550 UNITED PLAZA BLVD S           BATON ROUGE                        LA70809    ACCT000012                    0.00           71 0.00           N  NNNN
+06L000000001R CATO CORPORATION                   PO BOX 34216                       CHARLOTTE                          NC28234    ACCT000014                    0.00              0.00           N  NNNN
+06L000000001R GEMB/OLD NAVY                      PO BOX 965005                      ORLANDO                            FL32896    ACCT000008                    0.00              0.00           N  NNNN
+06L000000001R HSBC/MCRAE                         PO BOX 15521                       WILMINGTON                         DE19805    ACCT000010                    0.00              0.00           N  NNNN
+06L000000001R MBNA AMERICA                                                                                                        ACCT000001                    0.00              0.00           N  NNNN
+06L000000001R CITI                                                                                                                ACCT000004                    0.00              0.00           N  NNNN
+06L000000001R WFNNB/BEALLS                                                                                                        ACCT000011                    0.00              0.00           N  NNNN
+06L000000001R GEMB/JCP                           PO BOX 965007                      ORLANDO                            FL32896    ACCT000007                    0.00              0.00           N  NNNN
+06L000000001I GTE SOUTHWEST INC                  500 TECHNOLOGY DR                  WELDON SPRING                      MO63304    ACCT000005                                                     N  NNNN
+06S000000001SCA0.00           
+07A1500000.00     0.00           0.00           0.00           7419.58        28406.60       0.00           0.00           0.00           0.00           0.00           
+08A000000001NNNNNNNNN01YY 01
+10A000000001N                                
+10BTReid, Liz                                                                                                        7802 Skypark Circle, Ste. 205                                         rvine                             CA9 2614     
+00070 3.20 
+99BNF11500000.00                                                                                                                                 
+00011 3.20 
+LNC1 01                 NN5.000                        N        201701010.000     0.00 N 
+PIDCredit Ascent - 24mo BS 5/1 AR               51LWS
+PCH360N01NN  
+ARM1.568    5.000  7.900  
+TT TRAN1    
+ET ENV1     
